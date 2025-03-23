@@ -5,7 +5,7 @@ Project link:
 https://github.com/user-attachments/assets/f576897d-f4d9-4ab8-af00-27d6c2b9f2f5
 
 
-<img src="https://github.com/Bhagya2005/Vehicle-Valuation-Hub/blob/main/demo.png">
+
 
 
 
